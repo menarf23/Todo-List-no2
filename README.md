@@ -1,7 +1,7 @@
 # Todo-List-no2
 
 This project was made with Vite.
-This app allows you to see add, check and delete items. 
+This app allows you to add, check and delete items. 
 
 ## Available Scripts
 
